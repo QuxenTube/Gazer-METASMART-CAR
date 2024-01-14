@@ -1,0 +1,47 @@
+{
+    "brands": [
+      {
+        "name": "Brand1",
+        "models": [
+          {
+            "name": "Model1A",
+            "years": [
+              {"year": 2020, "downloadURL": "https://example.com/download1A2020"},
+              {"year": 2021, "downloadURL": "https://example.com/download1A2021"},
+              {"year": 2022, "downloadURL": "https://example.com/download1A2022"}
+            ]
+          },
+          {
+            "name": "Model1B",
+            "years": [
+              {"year": 2019, "downloadURL": "https://example.com/download1B2019"},
+              {"year": 2020, "downloadURL": "https://example.com/download1B2020"},
+              {"year": 2021, "downloadURL": "https://example.com/download1B2021"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Brand2",
+        "models": [
+          {
+            "name": "Model2A",
+            "years": [
+              {"year": 2018, "downloadURL": "https://example.com/download2A2018"},
+              {"year": 2019, "downloadURL": "https://example.com/download2A2019"},
+              {"year": 2020, "downloadURL": "https://example.com/download2A2020"}
+            ]
+          },
+          {
+            "name": "Model2B",
+            "years": [
+              {"year": 2017, "downloadURL": "https://example.com/download2B2017"},
+              {"year": 2018, "downloadURL": "https://example.com/download2B2018"},
+              {"year": 2019, "downloadURL": "https://example.com/download2B2019"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
